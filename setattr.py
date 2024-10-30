@@ -61,6 +61,10 @@ class StudentManager:
                 self.student_dict[student_name].name = change
         else: print("Sorry this student doesn't exist")
 
+#TO LEARN - Not understandnig howt o change a key or value in a dictionary, for updating.... need to do more problem sets for this part...
+
+
+
 """
 Remove the old key-value pair from the dictionary.
 Insert a new key-value pair with the updated name.
